@@ -1,4 +1,4 @@
-http://windmillsandporcupines.co.za
+
 http://scnc.co.za
 http://contsol.co.za
 http://colourfactory.co.za
@@ -14,7 +14,7 @@ http://handj.co.za
 http://lwrm.co.za
 http://lpenterprises.co.za
 http://kwalitycommodities.co.za
-http://mestern.co.za
+
 http://megro.co.za
 http://butterflowers.co.za
 http://esfml.com
@@ -104,7 +104,7 @@ http://marcuskneen.co.za
 http://maggis.co.za
 http://mambabiz.com
 http://loveless.co.za
-http://legal-loans.co.za
+
 http://lefort.co.za
 http://lavoro.co.za
 http://kohl.co.za
